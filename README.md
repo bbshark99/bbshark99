@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center">
+        <br>
+        <br>
+        <br>
+        <br>
+        <img src="https://raw.githubusercontent.com/anthowen/anthowen/master/tada.svg?sanitize=true" width="60" height="60">
+        <h3>Hi <i>there!</i> :clap: </h3>
+        <h4>I love to post my ideas, tricks and cool experiences on :octocat:<a href="https://cutt.ly/ant-gists" target="_blank"> gists :notebook_with_decorative_cover:</a>. Go check it out :)</h4>
+        <br>
+        <br>
+</div>
 
-<!--
-**bbshark99/bbshark99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+        
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--KquRHSBA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9bj1wos6zzc0st06ueb9.gif" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
