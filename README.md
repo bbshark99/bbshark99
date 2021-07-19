@@ -1,6 +1,6 @@
 # Hey guys! 👋👋👋  ![Visitor Count](https://profile-counter.glitch.me/bbshark99/count.svg)
 
-<h3>Senior Software Engineer!</h3>
+<h3>🙏🙏🙏  Thanks for reaching out to me! 🙏🙏🙏 </h3>
 
 <p>
   <a href="https://github.com/bbshark99/bbshark99" >
@@ -13,7 +13,7 @@
   
  </p>
   
- <p align="center">
+ <p>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=bbshark99&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
  </p>
