@@ -1,4 +1,4 @@
-# Hey guys! 👋👋👋  ![Visitor Count](https://profile-counter.glitch.me/bbshark99/count.svg)
+# Hey guys! 👋👋👋 
 
 <h3>🙏🙏🙏  Thanks for reaching out to me! 🙏🙏🙏 </h3>
 
@@ -17,3 +17,6 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=bbshark99&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
  </p>
+
+![](https://komarev.com/ghpvc/?username=bbshark99&color=dc143c)
+
