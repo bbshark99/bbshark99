@@ -15,5 +15,5 @@
   
  <p align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=bbshark99&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=bbshark99&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  </p>
