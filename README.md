@@ -1,6 +1,8 @@
-# Hey guys! 👋👋👋 
+<h1 align="center">Hi, there! 👋</h1>
 
-<h3>🙏🙏🙏  Thanks for reaching out to me! 🙏🙏🙏 </h3>
+<h3 align="center">🙏🙏🙏  Thanks for reaching out to me! 🙏🙏🙏 </h3>
+
+## 💪 Overview
 
 <p>
   <a href="https://github.com/bbshark99/bbshark99" >
@@ -12,11 +14,13 @@
   </a>
   
  </p>
-  
+ 
  <p>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=bbshark99&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
  </p>
+ 
+ ## 📖 Languages
  
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -37,6 +41,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white">
 <div/>
+  
+<br />
 
 ![](https://komarev.com/ghpvc/?username=bbshark99&color=dc143c)
 
