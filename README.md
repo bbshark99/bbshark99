@@ -22,7 +22,11 @@
  
 <br />
 
- ## 📖 Languages
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bbshark99&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
+
+<br />
+
+## 📖 Languages
  
 <div align="left">
   <img src="https://img.shields.io/badge/Solidity-9E9E9E?style=for-the-badge&logo=solidity&logoColor=black">
@@ -42,7 +46,7 @@
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <div/>
-  
+
 <br />
 
 ![](https://komarev.com/ghpvc/?username=bbshark99&color=dc143c)
