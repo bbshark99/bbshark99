@@ -1,23 +1,24 @@
 <h1 align="center">Hi, there! 👋</h1>
 
-<h3 align="center">🙏🙏🙏  Thanks for reaching out to me! 🙏🙏🙏 </h3>
+<p align="center">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=bbshark99&include_all_commits=true&hide_border=true&theme=dark"/>
+</p>
 
-## 💪 Overview
-
-<p>
-  <a href="https://github.com/bbshark99/bbshark99" >
+<p align="center">
+  <a href="https://github.com/bbshark99">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=bbshark99&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
   
-  <a href="https://github.com/bbshark99/bbshark99" >
+  <a href="https://github.com/bbshark99">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bbshark99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BBShark's GitHub Stats" height="180px"/>
   </a>
   
  </p>
  
- <p>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=bbshark99&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/bbshark99">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=bbshark99&theme=onedark&row=1&&column=7" />
+  </a>
  </p>
  
 <br />
@@ -26,8 +27,6 @@
 
 <br />
 
-## 📖 Languages
- 
 <div align="left">
   <img src="https://img.shields.io/badge/Solidity-9E9E9E?style=for-the-badge&logo=solidity&logoColor=black">
   <img src="https://img.shields.io/badge/Rust-CC342D?style=for-the-badge&logo=rust&logoColor=white">
