@@ -15,16 +15,6 @@
   
  </p>
  
-<p align="center">
-  <a href="https://github.com/bbshark99">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=bbshark99&theme=onedark&row=1&&column=7" />
-  </a>
- </p>
- 
-<br />
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bbshark99&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
-
 <br />
 
 <div align="left">
